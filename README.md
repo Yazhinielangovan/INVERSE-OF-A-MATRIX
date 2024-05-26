@@ -1,5 +1,5 @@
 ## EXPERIMENT NO. : 03
-## DATE : 30.03.2024
+## DATE : 16.03.2024
 
 # INVERSE-OF-A-MATRIX
 ## Aim:
